@@ -15,8 +15,8 @@ import requests
 
 
 
-AK = "LTAI5t9uNBJMTX5SZdfwsD1d"
-SK = "Bp4qsYqYG4wKHG1DkQohLIpU6XzXn8"
+AK = "LTAI5tdsadBJasdasZdfwsD1d"
+SK = "Bp4qsYqsdsadkQasdsadIpU6XzXn8"
 
 
 def sign(method, params, secret):

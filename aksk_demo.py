@@ -15,7 +15,7 @@ import requests
 
 
 
-AK = "LTAI5tdsadBJasdasZdfwsD1d"
+AK = "LsdfsfsfdsdasZdfwsD1d"
 SK = "Bp4qsYqsdsadkQasdsadIpU6XzXn8"
 
 
